@@ -1,17 +1,18 @@
-### Olá, me chamo Kaiky Ferreira 🐱‍🏍
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Kaiky+Ferreira;Eu+tenho+20+anos;Estudo+Sistemas+de+Informação;Seja+Bem-vindo(a);Hello!;My+name+is+Kaiky+Ferreira;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome;Hola!;Me+nombre+es+Kaiky+Ferreira;Tengo+19+años;Estudio+sistema+de+información;Bienvenido!)](https://git.io/typing-svg)
 
 
 <div align="center">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikyfs&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+## Estudando: 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />        
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 
-##
+## 
  
 <div> 
   <a href="https://instagram.com/kaiky.fs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
