@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Kaiky+Ferreira;Eu+tenho+20+anos;Estudo+Sistemas+de+Informação;Seja+Bem-vindo(a);Hello!;My+name+is+Kaiky+Ferreira;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome;Hola!;Me+nombre+es+Kaiky+Ferreira;Tengo+19+años;Estudio+sistema+de+información;Bienvenido!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=38bdae&size=35&center=true&vCenter=true&width=1000&lines=Olá!;Meu+nome+é+Kaiky+Ferreira;Eu+tenho+20+anos;Estudo+Sistemas+de+Informação;Seja+Bem-vindo(a);Hello!;My+name+is+Kaiky+Ferreira;I'm+20+years+old;I'm+from+Brazil;I'm+studying+Information+Systems;Be+Welcome;Hola!;Me+nombre+es+Kaiky+Ferreira;Tengo+20+años;Estudio+sistema+de+información;Bienvenido!)](https://git.io/typing-svg)
 
 
 <div align="center">
